@@ -1,7 +1,7 @@
 <?php
 // List of allowed origins (replace with your allowed domains)
 $allowedOrigins = [
-    "https://allrounderlive89.netlify.app/"
+    "https://allrounderlive89.netlify.app"
 ];
 
 // Get the origin of the request
